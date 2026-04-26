@@ -1,6 +1,6 @@
 # BHRC Human Rights Controversy Dataset – STOXX Europe 600
 
-This project automatically collects human rights allegations, lawsuits, and attacks on human rights defenders involving companies in the STOXX Europe 600 (as of August 2025). It retrieves the number of controversies, the year they happened, and the original URL from the Business & Human Rights Resource Centre (BHRC).
+This project automatically collects human rights allegations, lawsuits, and attacks on human rights defenders involving companies in the STOXX Europe 600 (as of August 2025). It retrieves the number of controversies, the year they happened, and the original URL from the Business & Human Rights Centre (BHRC).
 
 The final output is a structured longitudinal panel dataset ready for use in research. The goal is to make the data collection process more reproducible and easier to update over time, instead of collecting everything manually each year.
 
